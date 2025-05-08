@@ -39,3 +39,23 @@
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" /></a>
   <a href="https://unity.com/ja"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" /></a>
 </div>
+
+
+## 🌐 Socials:
+<p align="left">
+  <a href="https://github.com/hiroaki-kitano-a">
+    <img src="https://komarev.com/ghpvc/?username=hiroaki-kitano-a" alt="hiroaki-kitano-a" />
+  </a>
+  <a href="https://github.com/hiroaki-kitano-a">
+    <img height="20" src="https://img.shields.io/github/followers/hiroaki-kitano-a?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://x.com/kitaaa_">
+    <img height="20" src="https://img.shields.io/twitter/follow/kitaaa_?label=x&logo=x&style=flat" />
+  </a>
+  <a href="http://qiita.com/hiroaki-kitano-a">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hiroaki-kitano-a/posts.svg" />
+  </a>
+  <//qiita.com/hiroaki-kitano-a">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hiroaki-kitano-a/contributions.svg" />
+  </a>
+</p>
